@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * *_strcat - concatenate two srtings
+ * *_strcat - function commute srtings
  * @dest: param pointer to a char
  * @src: param pointer to a char
- * Return: return value to dest
+ * Return: return value of dest
  */
 
 char *_strcat(char *dest, char *src)
